@@ -1,0 +1,29 @@
+nav {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    width: 150px;
+    height: 65px;
+}
+
+a {
+    font-size: 25px;
+}
+
+.social-icons-footer ul li {
+    display: inline-block;
+}
+
+.social-icons-footer ul li a span {
+    color: #705ecf;
+    margin: 0 8px;
+    font-size: 16px;
+}
+
+.jumbotron {
+    background-image: url("img/bg.jpg");
+    padding: 0px;
+    padding-bottom: 3px;
+}
